@@ -1,2 +1,1 @@
-# Paint-Web
- A canvas for simple Painting
+[OPEN IN BROWSER](https://smos-github.github.io/Paint-Web/)
