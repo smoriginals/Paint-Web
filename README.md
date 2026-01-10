@@ -2,18 +2,17 @@
 
 ## Paint Web App
 
-Paint is a simple and interactive web-based drawing application that allows users to create artwork directly in the browser. It features a clean and responsive interface with intuitive controls for drawing, erasing, and customizing brush colors and sizes. The app is designed for fun, creativity, and quick sketching without any installation or setup.
+Paint is a simple and interactive web-based drawing application that allows users to create artwork directly in the browser. It's a normal freehand drawing with random colors. Smooth and fast, fully written in Javascript -Lightweight and browser based no backend required except you must online.
 
 ## Features
-Freehand drawing with customizable brush size and color.
-Eraser tool to easily remove unwanted strokes.
+Freehand drawing with random colors.
 Clear canvas option to start fresh anytime.
 Smooth and responsive drawing experience using pure JavaScript.
 Lightweight and fully browser-based, no backend required.
 
 # Acknowledgements
 
-This project is a basic implementation using HTML, CSS, and JavaScript. It was built as a learning project to practice DOM manipulation, canvas API, and interactive web UI development.
+This project is a basic implementation using HTML, CSS, and JavaScript. It was built as a learning project to practice DOM manipulation, canvas, and interactive web UI development.
 
 # License 
 
