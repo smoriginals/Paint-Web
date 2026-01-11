@@ -5,10 +5,10 @@
 Paint is a simple and interactive web-based drawing application that allows users to create artwork directly in the browser. It's a normal freehand drawing with random colors. Smooth and fast, fully written in Javascript -Lightweight and browser based no backend required except you must online.
 
 ## Features
-Freehand drawing with random colors.
-Clear canvas option to start fresh anytime.
-Smooth and responsive drawing experience using pure JavaScript.
-Lightweight and fully browser-based, no backend required.
+- Freehand drawing with random colors.
+- Clear canvas option to start fresh anytime.
+- Smooth and responsive drawing experience using pure JavaScript.
+- Lightweight and fully browser-based, no backend required.
 
 # Acknowledgements
 
